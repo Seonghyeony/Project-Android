@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031198654587",
+    "project_id": "today-swisequote",
+    "storage_bucket": "today-swisequote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031198654587:android:d98f5c50fa1ae41499e2de",
+        "android_client_info": {
+          "package_name": "com.seonghyeon.android.todayswisequotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031198654587-nltjv7qi5u0sesmq4agjo964qsskrn4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqYSMA47MrFMk_xMZM6sOrXJg2GA5Ex4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031198654587-nltjv7qi5u0sesmq4agjo964qsskrn4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
